@@ -1,0 +1,34 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+/target/
+
+# Maven build output folder
+/target/
+
+# Gradle build folders (jeśli używasz Gradle)
+/.gradle/
+/build/
+
+# Logs
+*.log
+logs/
+
+# Eclipse IDE files
+/.classpath
+/.project
+/.settings/
+/.buildpath
+
+# Compiled class files and archives
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code (opcjonalnie)
+.vscode/
