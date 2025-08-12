@@ -1,6 +1,5 @@
 package com.scotycode.orderService.response;
 
-import com.scotycode.order_service.request.OrderItemCreateDTO;
 import lombok.*;
 
 import java.time.LocalDateTime;

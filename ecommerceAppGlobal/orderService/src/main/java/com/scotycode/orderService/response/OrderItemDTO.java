@@ -1,6 +1,6 @@
 package com.scotycode.orderService.response;
 
-import com.scotycode.order_service.enums.OrderItemsStatus;
+import com.scotycode.orderService.enums.OrderItemsStatus;
 import lombok.*;
 
 import java.math.BigDecimal;
