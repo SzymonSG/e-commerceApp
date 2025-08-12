@@ -10,7 +10,7 @@ import java.util.List;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class OrderDTO {
+public class ResponseOrder {
     private String publicId;
     private LocalDateTime orderDate;
     private List<OrderItemDTO> items;
